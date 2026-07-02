@@ -74,7 +74,6 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
-
 /* Match dedication formatting */
 #dedication p{
 	font-variant: small-caps;

@@ -54,13 +54,12 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Lingard Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
 		<dc:description id="description">A cargo ship’s Captain is forced to rescue the passangers and crew of a stranded yacht on a Malaysian island.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Tom Lingard, Captain of the vessel Lightning, after several delays is returning to the Malaysian Archipelago to fulfill his promise made to an exiled Malaysian prince, Hassim, and princess, Immada. The promise to procure weapons and return to help the prince and his sister retake control of their kingdom. Lingard’s plans are interrupted when his ship encounters a small boat with crew members from a private yacht that is stranded on the same island that Lingard is to rendezvous with the prince and Jorgenson, an old sailor who has been watching over the storehouse of weapons in the derelict ship.&lt;/p&gt;
+			&lt;p&gt;Tom Lingard, Captain of the vessel &lt;i&gt;Lightning&lt;/i&gt;, after several delays is returning to the Malaysian Archipelago to fulfill his promise made to an exiled Malaysian prince, Hassim, and princess, Immada. The promise to procure weapons and return to help the prince and his sister retake control of their kingdom. Lingard’s plans are interrupted when his ship encounters a small boat with crew members from a private yacht that is stranded on the same island that Lingard is to rendezvous with the prince and Jörgenson, an old sailor who has been watching over the storehouse of weapons in the derelict ship.&lt;/p&gt;
 			&lt;p&gt;Upon arriving at the island Lingard meets the passengers of the yacht; Mr. Travers, a successful businessman and the owner of the yacht, his wife, Edith Travers, and Mr. d’Alcacer, a Spanish acquaintance traveling with the Travers. Lingard encounters resistance from Mr. Travers who is suspicious of Lingard’s intents and refuses his help. Before Lingard can leave the yacht Hassim and Immada, who has seen the approach of Lingard’s ship, boards the yacht and confronts Lingard about his delays and if he intends to honor his promise and if the yacht and its passengers were a part of his plan. This confrontation solidifies Mr. Travers’ belief that Lingard is not to be trusted.&lt;/p&gt;
 			&lt;p&gt;Returning to the Lightning Lingard realizes that his focus and plans have been upended by a new presence in his world. With only a glance he has fallen for Edith Travers. In the early evening Lingard returns to the yacht to talk with Edith to explain what must be done for everyone’s safety while trying not to reveal his feelings for her. It is during this time that Mr. Travers and Mr. d’Alcacer, while walking on the sandbanks, are taken as prisoners by the Illanuns, a rival tribe that wants the weapons for themselves. Lingard now must regain control of the situation to save the yacht’s passengers and crew and fulfill his promise to his friends.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; preface explains that work on this novel was started twenty years before its publication in 1921. Even though Conrad knew the direction of the story he was not convinced that he could present it with clarity. The novel was never completely abandoned but moved to the side for most of his novels. This is the last of three works sometimes referred to as the &lt;a href="https://standardebooks.org/collections/lingard-trilogy"&gt;Lingard Trilogy&lt;/a&gt; and is the work where Lingard is the primary protagonist.&lt;/p&gt;
@@ -69,22 +68,20 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1712</dc:source>
 		<dc:source>https://archive.org/details/bwb_S0-AUQ-279</dc:source>
 		<meta property="se:production-notes">Conrad’s 1921 preface has been transcribed for this edition, thus this ebook constitutes its source.</meta>
-		<meta property="schema:wordCount">134189</meta>
-		<meta property="schema:educationalLevel">61.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Rescue_(Conrad_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_the-rescue</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
 		<meta property="file-as" refines="#author">Conrad, Joseph</meta>
 		<meta property="se:name.person.full-name" refines="#author">Józef Teodor Konrad Korzeniowski</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Joseph_Conrad</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79054067.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054067</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Martin Johnson Heade</dc:contributor>
 		<meta property="file-as" refines="#artist">Heade, Martin Johnson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Martin_Johnson_Heade</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n89656703.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n89656703</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judy Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judy</meta>

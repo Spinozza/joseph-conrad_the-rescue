@@ -89,6 +89,11 @@ section[epub|type~="epigraph"] > *{
 	text-align: justify;
 }
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;

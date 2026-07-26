@@ -77,6 +77,16 @@ section[epub|type~="epigraph"] > *{
 /* Match dedication formatting */
 #dedication p{
 	font-variant: small-caps;
+	max-width: 20em;
+}
+
+#dedication p b{
+	font-size: larger;
+}
+
+#dedication p span{
+	display: inline-block;
+	text-align: justify;
 }
 
 [epub|type~="z3998:verse"] p{
